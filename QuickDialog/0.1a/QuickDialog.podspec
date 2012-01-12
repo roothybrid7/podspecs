@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name     = 'QuickDialog'
   s.version  = '0.1a'
   s.license  = 'Apache License, Version 2.0'
-  s.summary  = 'Quick and easy dialog screens for iOS'
+  s.summary  = 'Quick and easy dialog screens for iOS on customized podspec'
   s.homepage = 'http://escoz.com/quickdialog-released/'
   s.author   = { 'Eduardo Scoz' => 'eduardoscoz@gmail.com' }
   s.source   = { :git => 'git://github.com/escoz/QuickDialog.git', :tag => '0.1' }
